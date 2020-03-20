@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.3//EN
+N:Dickey;Austin;;;
+FN:Austin Dickey
+EMAIL;type=INTERNET;type=HOME;type=pref:austindickey@me.com
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(703) 909-7526
+item1.ADR;type=HOME;type=pref:;;;Murfreesboro;TN;37129;
+item1.X-ABADR:us
+item2.URL;type=pref:https://austindickey.github.io/personal-portfolio
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
