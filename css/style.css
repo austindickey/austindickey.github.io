@@ -1382,7 +1382,8 @@ header .header-mobile .header-toggle i {
 .portfolio-section .item figure figcaption h4,
 .portfolio-section .item figure figcaption p {
     opacity: 0;
-    color: #d11414;
+    color: #fff;
+    text-shadow: 0px 1px #000;
     -webkit-transition: all .1s ease-in;
     -o-transition: all .1s ease-in;
     transition: all .1s ease-in;
@@ -1398,7 +1399,6 @@ header .header-mobile .header-toggle i {
 
 .portfolio-section .item figure figcaption p {
     padding-top: 10px;
-    color: rgb(94, 94, 94);
     -webkit-transform: translateY(50px);
     -ms-transform: translateY(50px);
     transform: translateY(50px);
