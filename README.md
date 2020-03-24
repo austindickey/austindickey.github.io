@@ -15,6 +15,10 @@ Got Alchohol? (Group Project) - https://d-taylor6403.github.io/Project1
 
     -- This project takes in an ingredient, or a specific alcoholic drink, and spits out written instructions on how to make that drink, and also gives you the option to see instructional videos as well. Also there is a create random drink button.
 
+Corona Virus Data - https://austindickey.github.io/corona-virus-data/
+
+    -- With the use of thevirustracker and New York Times API's, this site will show you statistics for the world, and statistics for individual countries, as well as the 30 latest news stories.
+
 Liri Node App - https://github.com/austindickey/liri-node-app
 
     -- This is a text based driven app that allows a user to get information about a particular song, a movie, or see the next 5 concerts for a music artist or a band.
