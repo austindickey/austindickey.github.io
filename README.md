@@ -43,9 +43,9 @@ Crystal Collector - https://austindickey.github.io/unit-4-game
 
     -- This is a game set up on random numbers. You keep clicking until you hit the number goal exactly. Nothing below or above.
 
-Rock Paper Scissors - https://austindickey.github.io/rps-multiplayer
+Rock Paper Scissors Multiplayer Game - https://austindickey.github.io/rps-multiplayer
 
-    -- This was originally meant to be a multiplayer game, but I have not been able to figure out the multiplayer aspect just yet. I code it up to play against the computer, but I will keep trying to figure out the multiplayer for now.
+    -- This a multiplayer rock, paper, scissors game. It uses a firebase database to store all of the data. The game will not begin unless 2 users are connected. To test this web app, use 2 different browsers, or access the site from 2 different tabs in the same browser. Enter you name, and push start, and follow the on screen prompts.
 
 Friend Finder - https://calm-cliffs-62308.herokuapp.com
 
