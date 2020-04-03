@@ -37,6 +37,12 @@ _This is a node inventory app that runs in the console. It has 3 sides: Customer
 
 ---
 
+### Rock Paper Scissors Multiplayer Game - https://austindickey.github.io/rps-multiplayer
+
+_This a multiplayer rock, paper, scissors game. It uses a firebase database to store all of the data. The game will not begin unless 2 users are connected. To test this web app, use 2 different browsers, or access the site from 2 different tabs in the same browser. Enter you name, and push start, and follow the on screen prompts._
+
+---
+
 ### Sports Trivia Game - https://austindickey.github.io/TriviaGame
 
 _This is a trivia game of 20 sports questions set to run on timers. There is a restart button at the end of the game if you would like._
@@ -61,14 +67,16 @@ _This is a game set up on random numbers. You keep clicking until you hit the nu
 
 ---
 
-### Rock Paper Scissors Multiplayer Game - https://austindickey.github.io/rps-multiplayer
-
-_This a multiplayer rock, paper, scissors game. It uses a firebase database to store all of the data. The game will not begin unless 2 users are connected. To test this web app, use 2 different browsers, or access the site from 2 different tabs in the same browser. Enter you name, and push start, and follow the on screen prompts._
-
----
-
 ### Friend Finder - https://calm-cliffs-62308.herokuapp.com
 
 _This is a friend finder web app that runs on an express server. It compares your data with the current database of friends to find the best match._
 
 _The github repo for this site can be found here: https://github.com/austindickey/FriendFinder_
+
+---
+
+### Burger Web App - https://burgervandy.herokuapp.com
+
+_This is a website deployed on heroku. It shows the current list of burgers in the database, you can add more burgers, or you can eat the existing ones._
+
+_The github repo for this site can be found here: https://github.com/austindickey/burger_
