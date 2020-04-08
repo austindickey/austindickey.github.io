@@ -57,7 +57,9 @@ _This is a simplified version of hangman. Guess the correct letters before you r
 
 ### Giphy Widget - https://austindickey.github.io/giphy-widget
 
-_This is a simple website that allows you to add a button, and show the top 10 gifs related to that button. The theme is animals, but it honestly works for anything under the sun._
+_To use this widget, simply type something in the search field and press enter or click submit. It will then populate the top 10 gifs related to your query along with a rating._
+
+_Click on each gif to either start or stop it._
 
 ---
 
