@@ -43,15 +43,15 @@ _This a multiplayer rock, paper, scissors game. It uses a firebase database to s
 
 ---
 
-### Sports Trivia Game - https://austindickey.github.io/TriviaGame
+### Word Guess Game - https://austindickey.github.io/Word-Guess-Game
 
-_This is a trivia game of 20 sports questions set to run on timers. There is a restart button at the end of the game if you would like._
+_There are 10 words and you have 10 guesses for each word to try to figure out what each one is. This game is restartable if desired._
 
 ---
 
-### Word Guess Game - https://austindickey.github.io/Word-Guess-Game
+### Sports Trivia Game - https://austindickey.github.io/TriviaGame
 
-_This is a simplified version of hangman. Guess the correct letters before you run out of guesses in order to win._
+_This is a trivia game of 20 sports questions set to run on timers. There is a restart button at the end of the game if you would like._
 
 ---
 
