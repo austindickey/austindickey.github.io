@@ -307,11 +307,7 @@ function contactFormSetup() {
 
     $('#contact-form').on('submit', function(e) {
         e.preventDefault();
-        var name = $('#cf-name').val(),
-            email = $('#cf-email').val(),
-            message = $('#cf-message').val(),
-            $messageBox = $('#contact-form .message'),
-            required = 0;
+        var required = 0;
 
 
         $('.cf-validate', this).each(function() {
@@ -328,28 +324,9 @@ function contactFormSetup() {
             }
         });
         if( required === 0 ) {
-            showAlertBox(200, message);
-            // $.ajax({
-            //     type: 'POST',
-            //     url: 'mail.php',
-            //     data: {
-            //         cf_name: name,
-            //         cf_email: email,
-            //         cf_message: message
-            //     },
-            //     dataType: "json",
-            //     success: function(data) {
-            //         console.log(data);
-            //         showAlertBox(data.status, data.message);
-
-            //         if(data.status === 200) {
-            //             $("#contact-form .input__field").val("");
-            //         }
-            //     },
-            //     error: function(data) {
-            //         showAlertBox(data.status, data.message);
-            //     }
-            // });
+            showAlertBox(200, "Success!");
+        } else {
+            showAlertBox(400, "Something went wrong. Try again.");
         }
     });
 }
@@ -368,4 +345,3 @@ function showAlertBox(response, message) {
     }
     $alContainer.fadeIn(300).delay(4000).fadeOut(400);
 }
-
