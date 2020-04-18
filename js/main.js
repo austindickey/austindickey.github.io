@@ -328,27 +328,28 @@ function contactFormSetup() {
             }
         });
         if( required === 0 ) {
-            $.ajax({
-                type: 'POST',
-                url: 'mail.php',
-                data: {
-                    cf_name: name,
-                    cf_email: email,
-                    cf_message: message
-                },
-                dataType: "json",
-                success: function(data) {
-                    console.log(data);
-                    showAlertBox(data.status, data.message);
+            showAlertBox(200, message);
+            // $.ajax({
+            //     type: 'POST',
+            //     url: 'mail.php',
+            //     data: {
+            //         cf_name: name,
+            //         cf_email: email,
+            //         cf_message: message
+            //     },
+            //     dataType: "json",
+            //     success: function(data) {
+            //         console.log(data);
+            //         showAlertBox(data.status, data.message);
 
-                    if(data.status === 200) {
-                        $("#contact-form .input__field").val("");
-                    }
-                },
-                error: function(data) {
-                    showAlertBox(data.status, data.message);
-                }
-            });
+            //         if(data.status === 200) {
+            //             $("#contact-form .input__field").val("");
+            //         }
+            //     },
+            //     error: function(data) {
+            //         showAlertBox(data.status, data.message);
+            //     }
+            // });
         }
     });
 }
