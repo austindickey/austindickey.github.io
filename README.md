@@ -31,6 +31,24 @@ _This is a text based driven app that allows a user to get information about a p
 
 ---
 
+### Hounders - https://doghounders.herokuapp.com
+
+_Our mission is to enable dog seekers to find their ideal pet. You can use our site to list a dog of your own, or as a buyer you can browse all of the dogs that have currently been listed. We also show you the 20 latest dogs to hit the PetFinder site for adoption. If you have any questions or concerns, please feel free to contact us. We hope you find your next best friend here, and thanks for choosing Hounders!_
+
+---
+
+### GameHeros - https://austindickey.github.io/memory-game
+
+_This is a game that test your memory. Click on an image without clicking on the same one twice until you have clicked all 12 to win. This game will run continuously._
+
+---
+
+### Newsball - https://newsball.herokuapp.com
+
+_This is a website that scrapes NFL stories from https://www.usatoday.com/. The articles are then saved in a mongo database. You can save specific articles from the scraped list if you desire to do so._
+
+---
+
 ### Bamazon (Inventory Management App) - https://github.com/austindickey/bamazon
 
 _This is a node inventory app that runs in the console. It has 3 sides: Customer, Manager, Supervisor._
