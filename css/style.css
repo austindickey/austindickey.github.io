@@ -1672,6 +1672,10 @@ header .header-mobile .header-toggle i {
     font-weight: 700;
 }
 
+.information a:hover {
+    color: #95d7f9;
+}
+
 
 /*============ 11. Blog Page Css ============*/
 
