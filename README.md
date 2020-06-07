@@ -25,13 +25,13 @@ _This is a MERN project for viewing all the books on the google books website. Y
 
 ---
 
-### Got Alchohol? (Group Project) - https://d-taylor6403.github.io/Project1
+### Got Alchohol? (Group Project) - https://github.com/d-taylor6403/Project1
 
 _This project takes in an ingredient, or a specific alcoholic drink, and spits out written instructions on how to make that drink, and also gives you the option to see instructional videos as well. Also there is a create random drink button._
 
 ---
 
-### Corona Virus Data - https://austindickey.github.io/corona-virus-data/
+### Corona Virus Data - https://github.com/austindickey/corona-virus-data
 
 _With the use of thevirustracker and New York Times API's, this site will show you statistics for the world, and statistics for individual countries, as well as the 30 latest news stories._
 
@@ -43,19 +43,19 @@ _This is a text based driven app that allows a user to get information about a p
 
 ---
 
-### Hounders - https://doghounders.herokuapp.com
+### Hounders - https://github.com/austindickey/Hounders
 
 _Our mission is to enable dog seekers to find their ideal pet. You can use our site to list a dog of your own, or as a buyer you can browse all of the dogs that have currently been listed. We also show you the 20 latest dogs to hit the PetFinder site for adoption. If you have any questions or concerns, please feel free to contact us. We hope you find your next best friend here, and thanks for choosing Hounders!_
 
 ---
 
-### GameHeros - https://austindickey.github.io/memory-game
+### GameHeros - https://github.com/austindickey/memory-game
 
 _This is a game that test your memory. Click on an image without clicking on the same one twice until you have clicked all 12 to win. This game will run continuously._
 
 ---
 
-### Newsball - https://newsball.herokuapp.com
+### Newsball - https://github.com/austindickey/web-scraper
 
 _This is a website that scrapes NFL stories from https://www.usatoday.com/. The articles are then saved in a mongo database. You can save specific articles from the scraped list if you desire to do so._
 
@@ -67,25 +67,25 @@ _This is a node inventory app that runs in the console. It has 3 sides: Customer
 
 ---
 
-### Rock Paper Scissors Multiplayer Game - https://austindickey.github.io/rps-multiplayer
+### Rock Paper Scissors Multiplayer Game - https://github.com/austindickey/rps-multiplayer
 
 _This a multiplayer rock, paper, scissors game. It uses a firebase database to store all of the data. The game will not begin unless 2 users are connected. To test this web app, use 2 different browsers, or access the site from 2 different tabs in the same browser. Enter you name, and push start, and follow the on screen prompts._
 
 ---
 
-### Word Guess Game - https://austindickey.github.io/Word-Guess-Game
+### Word Guess Game - https://github.com/austindickey/Word-Guess-Game
 
 _There are 10 words and you have 10 guesses for each word to try to figure out what each one is. This game is restartable if desired._
 
 ---
 
-### Sports Trivia Game - https://austindickey.github.io/TriviaGame
+### Sports Trivia Game - https://github.com/austindickey/TriviaGame
 
 _This is a trivia game of 20 sports questions set to run on timers. There is a restart button at the end of the game if you would like._
 
 ---
 
-### Giphy Widget - https://austindickey.github.io/giphy-widget
+### Giphy Widget - https://github.com/austindickey/giphy-widget
 
 _To use this widget, simply type something in the search field and press enter or click submit. It will then populate the top 10 gifs related to your query along with a rating._
 
@@ -93,13 +93,13 @@ _Click on each gif to either start or stop it._
 
 ---
 
-### Crystal Collector - https://austindickey.github.io/unit-4-game
+### Crystal Collector - https://github.com/austindickey/unit-4-game
 
 _This is a game set up on random numbers. You keep clicking until you hit the number goal exactly. Nothing below or above._
 
 ---
 
-### Friend Finder - https://calm-cliffs-62308.herokuapp.com
+### Friend Finder - https://github.com/austindickey/FriendFinder
 
 _This is a friend finder web app that runs on an express server. It compares your data with the current database of friends to find the best match._
 
@@ -107,7 +107,7 @@ _The github repo for this site can be found here: https://github.com/austindicke
 
 ---
 
-### Burger Web App - https://burgervandy.herokuapp.com
+### Burger Web App - https://github.com/austindickey/burger
 
 _This is a website deployed on heroku. It shows the current list of burgers in the database, you can add more burgers, or you can eat the existing ones._
 
