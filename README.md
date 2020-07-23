@@ -25,15 +25,21 @@ _This is a MERN project for viewing all the books on the google books website. Y
 
 ---
 
-### Got Alchohol? (Group Project) - https://github.com/d-taylor6403/Project1
+### JumpingTerror - https://github.com/austindickey/JumpingTerror
 
-_This project takes in an ingredient, or a specific alcoholic drink, and spits out written instructions on how to make that drink, and also gives you the option to see instructional videos as well. Also there is a create random drink button._
+_This is a website for a Twitch Streamer from scratch. It's simple, clean, and fully mobile responsive._
 
 ---
 
 ### Corona Virus Data - https://github.com/austindickey/corona-virus-data
 
 _With the use of thevirustracker and New York Times API's, this site will show you statistics for the world, and statistics for individual countries, as well as the 30 latest news stories._
+
+---
+
+### Got Alchohol? (Group Project) - https://github.com/d-taylor6403/Project1
+
+_This project takes in an ingredient, or a specific alcoholic drink, and spits out written instructions on how to make that drink, and also gives you the option to see instructional videos as well. Also there is a create random drink button._
 
 ---
 
